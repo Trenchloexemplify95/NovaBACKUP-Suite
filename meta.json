@@ -1,0 +1,23 @@
+{
+  "repo": "novabackup-suite",
+  "product": "NovaBACKUP Suite",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "backup-recovery",
+  "topics": [
+    "novabackup",
+    "novabackup-windows",
+    "backup-recovery-desktop",
+    "how-to-install-novabackup",
+    "novabackup-desktop-package",
+    "novabackup-workspace",
+    "novabackup-pro-tools",
+    "novabackup-suite",
+    "zentool-novabackup",
+    "novabackup-tool-9"
+  ],
+  "site": "zentool.art"
+}
